@@ -1,0 +1,16 @@
+This is the file that where I included my important bootstrap and js file.
+It has toastar and sweet alert.
+
+Toastar and sweet alert css is ->
+toastr.css
+bootstrap.min.css
+jquery.min.js
+popper.min.js
+bootstrap.min.js
+toastr.js
+
+For sweet alert
+jquery.min.js
+popper.min.js
+bootstrap.min.js
+sweetalert.min.js
